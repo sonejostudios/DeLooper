@@ -9,6 +9,7 @@ __Features:__
 * Record and Loop Length separated
 * Erase parts of the loop
 * Delay mode (via feedback)
+* Simple mix (via mute and volume)
 
 
 --
