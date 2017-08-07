@@ -5,7 +5,6 @@ declare license     "GPL v3";
 declare reference   "www.sonejo.net";
 declare description	"Sample-accurate Looper/Delay with free mode and midi-clock sync mode";
 
-//names: Loolay, Looplay, Deloop, Flooper, Loopa, Echoloop...
 
 import("stdfaust.lib");
 
